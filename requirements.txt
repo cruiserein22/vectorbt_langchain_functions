@@ -6,3 +6,6 @@ langchain
 bs4
 tiktoken
 streamlit
+langchain
+youtube-transcript-api
+pytube
